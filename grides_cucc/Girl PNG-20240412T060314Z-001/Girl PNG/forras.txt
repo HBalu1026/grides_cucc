@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D4A5-EC81
+
+ Directory of C:\Users\hernadi.balazs\source\repos\grides_cucc\Girl PNG-20240412T060314Z-001\Girl PNG
+
+[.]               [..]              forras.txt        Girl PNG 01.png
+Girl PNG 02.png   Girl PNG 03.png   Girl PNG 04.png   Girl PNG 05.png
+Girl PNG 06.png   Girl PNG 07.png   Girl PNG 08.png   Girl PNG 09.png
+Girl PNG 10.png   Girl PNG 11.png   Girl PNG 12.png   Girl PNG 13.png
+Girl PNG 14.png   Girl PNG 15.png   Girl PNG 16.png   Girl PNG 17.png
+Girl PNG 18.png   Girl PNG 19.png   Girl PNG 20.png   Girl PNG 21.png
+Girl PNG 22.png   Girl PNG 23.png   Girl PNG 24.png   Girl PNG 25.png
+Girl PNG 26.png   Girl PNG 27.png   Girl PNG 28.png   Girl PNG 29.png
+              30 File(s)     41ÿ777ÿ364 bytes
+               2 Dir(s)  364ÿ709ÿ253ÿ120 bytes free
